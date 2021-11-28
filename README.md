@@ -16,9 +16,9 @@
 ### The process
 The system is set up like requested in the assignment with small variants to the original plan 
 
-Fx. when a client enters their information, if there is a mistake in the entered information then there is security set up in the form to catch the mistake. If it happend a wrongly filled out form (Fx. missing values) was sent, then the external worker would catch the problem and throw a BPMN error. The error is then catched by the program and informs a user that there was a mistake. 
+Fx. when a client enters their information, if there is a mistake in the information entered, then there is security set up in the form to catch the mistake. If it happend a wrongly filled out form (Fx. missing values) was sent, then the external worker would catch the problem and throw a BPMN error. The error is then catched by the program and informs a user that there was a mistake. 
 
-There is 2 external workers in the system. One that desides if a client is liable for a loan and one that saves all the information about a client their loan if the loan is accepted by both the bank and the client. They are both build in python and run on different threads. they are activated by running the command 
+There is 2 external workers in the system. One that desides if a client is liable for a loan and one that saves all the information about a client and their loan, if the loan is accepted by both the bank and the client. They are both build in python and run on different threads. they are activated by running the command 
 
 ```
 python workers\liable_worker.py
