@@ -19,10 +19,26 @@
 First step is to create a loan application by entering client information:
 
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_1.PNG)
+
+After the information is entered a outomated bank liability system determains if the client sould be offered a loan.
+In this case the system determined that the client should be offered a loan.
+
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_2.PNG)
+
+This decition was made on the basic of the information the client has entered about themself and determined by the code seen below: 
+If there is mistakes in the information the system has been given a bpmn error is thrown, the client is informed and the client has to start ower.
+
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_3.PNG)
+
+After the system has handled the request a employee looks over the information given by the client, the offer the system has offered the client. Here he/she has the option to change the price, interest rate or cancel the loan altogether. 
+
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_4.PNG)
+
+When the employee has accepted the loan the client is presented with almost the same information except whether the system has deemed them liable because this is internal information for the bank.
+Here the client has the option the accept or decline the loan.
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_5.PNG)
+
+If the client accepts the loan a record of the loan and all of the information about the client is saved:
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_6.PNG)
 
 
