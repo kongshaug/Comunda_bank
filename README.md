@@ -25,7 +25,9 @@ In this case the system determined that the client should be offered a loan.
 
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_2.PNG)
 
-This decition was made on the basic of the information the client has entered about themself and determined by the code seen below: 
+This decition was made on the basic of the information the client has entered about themself and determined by the code seen below.
+Notice that the system said "second condition" this is because the interest rate and price of a loan depends on the amount the client wants to borrow and the personal information the client has given. The specific rules can be seen below.
+
 If there is mistakes in the information the system has been given a bpmn error is thrown, the client is informed and the client has to start ower.
 
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_3.PNG)
