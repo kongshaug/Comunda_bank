@@ -1,0 +1,8 @@
+Here is a record of all the loans we currently have given out:
+    
+
+    Benja age: 43 has a loan of 44000. with a interest of 2%. the price is 350 Has a salary of 23299. Lives at: fasanvej 32. Marriage status True. 
+    
+
+    Benjamin  age: 36 has a loan of 21000. with a interest of 3%. the price is 2000 Has a salary of 45000. Lives at: holtegade 32. Marriage status True. 
+    

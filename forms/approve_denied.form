@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Your application was denied by one of our employees. Better luck next time.",
+      "type": "text",
+      "id": "Field_0keh0sw"
+    },
+    {
+      "action": "submit",
+      "label": "Understood",
+      "type": "button",
+      "id": "Field_0katqpi",
+      "key": "field_16srz36"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1p5wkqg"
+}

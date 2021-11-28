@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "price of the loan",
+      "type": "textfield",
+      "id": "Field_Price1231",
+      "key": "Price",
+      "description": "the price of the loan",
+      "validate": {}
+    },
+    {
+      "label": "Interest rate of the loan",
+      "type": "textfield",
+      "id": "Field_Interest3242",
+      "key": "Interest",
+      "description": "the Interest of the loan",
+      "validate": {}
+    },
+    {
+      "label": "Name",
+      "type": "textfield",
+      "id": "Field_0lm9wf6",
+      "key": "Name",
+      "description": "What is your name?",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Age",
+      "type": "number",
+      "id": "Field_1197rtl",
+      "key": "Age",
+      "validate": {
+        "required": true,
+        "min": 12
+      },
+      "description": "How old are you?"
+    },
+    {
+      "label": "Salary",
+      "type": "number",
+      "id": "Field_18uq1xi",
+      "key": "Salary",
+      "description": "What is your current income pr month?"
+    },
+    {
+      "label": "Amount",
+      "type": "number",
+      "id": "Field_0dg7qox",
+      "key": "Amount",
+      "validate": {
+        "required": true,
+        "min": 500
+      },
+      "description": "How much money would you like to borrow?"
+    },
+    {
+      "label": "Address",
+      "type": "textfield",
+      "id": "Field_041vxwk",
+      "key": "Address",
+      "description": "Where do you live"
+    },
+    {
+      "label": "Married",
+      "type": "checkbox",
+      "id": "Field_1h45pqk",
+      "key": "Married",
+      "description": "Are you married?"
+    },
+    {
+      "label": "Have loan",
+      "type": "checkbox",
+      "id": "Field_1nfp7sd",
+      "key": "Have_loan",
+      "description": "Do you currently owe money to us or another bank??"
+    },
+    {
+      "label": "Approve loan",
+      "type": "textfield",
+      "id": "Field_09ge232ool9",
+      "key": "approve_by_client",
+      "description": "Do you approve this loan? - can only be \"yes\" and \"no\"",
+      "validate": {
+        "regularExpressionPattern": "yes|no",
+        "required": true
+      }
+    },
+    {
+      "action": "submit",
+      "label": "Submit",
+      "type": "button",
+      "id": "Field_1it3sqm",
+      "key": "field_0m4zhpx"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0mdr66x"
+}
