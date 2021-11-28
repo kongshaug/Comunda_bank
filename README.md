@@ -20,7 +20,7 @@ First step is to create a loan application by entering client information:
 
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_1.PNG)
 
-After the information is entered a outomated bank liability system determains if the client sould be offered a loan.
+After the information is entered a automated bank liability system determains if the client sould be offered a loan.
 In this case the system determined that the client should be offered a loan.
 
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_2.PNG)
