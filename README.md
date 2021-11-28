@@ -21,7 +21,7 @@ Fx. when a client enters their information, if there is a mistake in the entered
 There is 2 external workers in the system. One that desides if a client is liable for a loan and one that saves all the information about a client their loan if the loan is accepted by both the bank and the client. They are both build in python and run on different threads. they are activated by running the command 
 
 ```
-python workers liable_worker.py
+python workers\liable_worker.py
 ```
 
 ### In this section we will take you through a successful process. 
