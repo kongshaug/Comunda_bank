@@ -13,5 +13,11 @@
 ### Bank BPMN process:
 
 ![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/model.PNG)
+![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_1.PNG)
+![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_2.PNG)
+![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_3.PNG)
+![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_4.PNG)
+![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_5.PNG)
+![](https://github.com/kongshaug/Comunda_bank/blob/main/documentation_screenshots/step_6.PNG)
 
 
